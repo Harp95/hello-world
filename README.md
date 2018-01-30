@@ -1,2 +1,3 @@
 # hello-world
 Learning GitHub basics...
+This is my first attempt at learning GitHub basics. 
